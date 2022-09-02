@@ -14,7 +14,7 @@ The users created and their information should be displayed here. This informati
 ![UI](https://github.com/shrgrl/UI-Spec/blob/master/img/img2.png?raw=true)
 
 ## New User Section
-In the New User section the user must create a new user. When creating a new user, Username, Display Name, Phone, Email fields should be filled with text fields, User Roles dropdown should contain 3 selections (Guest, Admin, SuperAdmin) and finally there should be a checkbox specifying the Enabled feature. After entering this information, the Save User button in the header should be activated and the user should click this button to save.
+In the New User section the user must create a new user. When creating a new user, Username, Display Name, Phone, Email fields should be filled with text fields, User Roles dropdown should contain 3 selections (Guest, Admin, SuperAdmin) and 'Select user roles...' text should be added with placeholder. Finally there should be a checkbox specifying the Enabled feature. After entering this information, the Save User button in the header should be activated and the user should click this button to save.
 
 ![UI](https://github.com/shrgrl/UI-Spec/blob/master/img/img3.png?raw=true)
 
