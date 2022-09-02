@@ -4,7 +4,12 @@ When the user runs the application, a screen should open where user creation can
 ![UI](https://github.com/shrgrl/UI-Spec/blob/master/img/img.png?raw=true)
 
 ## Header
-Header should contain 3 different components. These; user creation button-<i>New User</i>, checkbox to show user information-<i>Hide Disabled User</i> and user save button-<i>Save User</i>. Also, the Hide Disabled User checkbox must be checked at first startup and the Save User button must be inactive.
+Header should contain 3 different components. These; 
+* User creation button-<i>New User</i> 
+* Checkbox to show user information-<i>Hide Disabled User</i>
+* User save button-<i>Save User</i>. 
+
+Also, the Hide Disabled User checkbox must be checked at first startup and the Save User button must be inactive.
 
 ![UI](https://github.com/shrgrl/UI-Spec/blob/master/img/img1.png?raw=true)
 
