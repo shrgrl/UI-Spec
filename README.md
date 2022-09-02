@@ -1,5 +1,7 @@
 # User Interface Specification Document
-When the user runs the application, a screen should open where user creation can be performed. This screen should consist of 3 different parts. Operations to be performed in the header should be displayed, user information should be displayed in the right section, and new user creation should be performed in the left section.
+When the user runs the application, a screen should open where user creation can be performed. This screen should consist of 3 different parts. Operations to be performed in the header should be displayed, user information should be displayed in the right section, and new user creation should be performed in the left section. In the screen web view, the title should be displayed on top and the other sections side by side, and it should be displayed responsively on mobile or similar screen sizes.
+
+![UI](https://github.com/shrgrl/UI-Spec/blob/master/img/img.png?raw=true)
 
 ## Header
 Header should contain 3 different components. These; user creation button-<i>New User</i>, checkbox to show user information-<i>Hide Disabled User</i> and user save button-<i>Save User</i>. Also, the Hide Disabled User checkbox must be checked at first startup and the Save User button must be inactive.
