@@ -7,7 +7,7 @@ When the user runs the application, a screen should open where user creation can
 Header should contain 3 different components. These; 
 * User creation button-<i>New User</i> 
 * Checkbox to show user information-<i>Hide Disabled User</i>
-* User save button-<i>Save User</i>. 
+* User save button-<i>Save User</i>
 
 Also, the Hide Disabled User checkbox must be checked at first startup and the Save User button must be inactive.
 
